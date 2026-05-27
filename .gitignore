@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Office temp / lock files
+~$*
+
+# Raw photo source folder — keep optimized images in assets/ instead
+will gent photos/
+
+# Source docs / outlines
+*.docx
